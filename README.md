@@ -1,1 +1,1 @@
-# ServiceBusManagementConsole
+# ServiceBus Entities Management

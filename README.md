@@ -1,1 +1,11 @@
-# ServiceBus Entities Management
+# ServiceBus Entities Functionality
+- Create Queues
+- List Queues
+- Get Queues
+- Delete Queues
+- Create Topics
+- List Topics
+- Delete Topics
+- Create Subscriptions
+- List Subscriptions
+- Delete Subscriptions
